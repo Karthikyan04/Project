@@ -18,6 +18,7 @@ public class Testcases {
 			String text = list.get(i).getText();
 			System.out.println(text);
 		}
+	System.out.println();
 	}
 
 }
